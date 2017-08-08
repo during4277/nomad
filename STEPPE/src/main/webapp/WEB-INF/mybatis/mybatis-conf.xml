@@ -12,5 +12,6 @@
 	</settings>
 	
 	<typeAliases>
+		<typeAlias alias="test" type="com.steppe.nomad.bean.test"/>
 	</typeAliases> 
 </configuration> 
